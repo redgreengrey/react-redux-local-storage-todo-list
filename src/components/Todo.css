@@ -1,0 +1,13 @@
+.todo {
+  display: flex;
+}
+
+.todo__item {
+  width: 120px;
+  border: 1px solid;
+  padding: 5px;
+}
+
+.todo__action {
+  cursor: pointer;
+}

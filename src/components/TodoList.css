@@ -1,0 +1,14 @@
+.todo-list {
+
+}
+
+.todo-list__header {
+  display: flex;
+  /*border: 1px solid;*/
+}
+
+.todo-list__header__item {
+  width: 120px;
+  border: 1px solid;
+  padding: 0 5px;
+}
